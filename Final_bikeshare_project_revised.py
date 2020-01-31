@@ -193,7 +193,7 @@ def user_stats(df):
     print('-'*40)
 
 
-def display_data(df):
+def display_raw_data(df):
     """Display data raw data"""
     
     start_loc = 0
@@ -222,7 +222,7 @@ def main():
             station_stats(df)
             trip_duration_stats(df)
             user_stats(df)
-            display_data(df)
+            display_raw_data(df)
             restart = input('\nWould you like to restart? Enter yes or no.\n')
             if restart.lower() != 'yes':
                 break
