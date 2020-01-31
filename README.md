@@ -1,15 +1,15 @@
-### Date created
-Include the date you created this project and README file.
+#### Januray 2020
+ 
 
-### Project Title
+### **Udacity Bikeshare Explore US Bikeshare**
 Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
 
-### Files used
+### Files used in the Bikeshare anlalysis *Python *ATOM *Spyder
 Include the files used
 
-### Credits
+### Credits go to Reddit research 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
