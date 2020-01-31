@@ -194,7 +194,7 @@ def user_stats(df):
 
 
 def display_data(df):
-    """Display data raw data"""
+    """Display data raw data 5 rows at a time until user responds with no"""
     
     start_loc = 0
     end_loc = 5    
